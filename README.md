@@ -1,7 +1,7 @@
 # Protótipo tambasa
 
 O projeto de um app mobile para os colaboradores da tambasa, consciste em uma forma de acesso mais simplificada e útil.
-Nos setores existe uma dificudlade na manutenção de tantos colaboradores, o objetivo é facilitar a vida do encarregado do setor, visando ferramentas de administração, controle e operação voltada para aumento de produtividade e construção de metas individuais, tanto do colaborador tanto do setor ao todo.
+Nos setores existe uma dificuldade na manutenção de tantos colaboradores, o objetivo é facilitar a vida do encarregado do setor, visando ferramentas de administração, controle e operação voltada para aumento de produtividade e construção de metas individuais, tanto do colaborador tanto do setor ao todo.
 
 Pretendo incluir diversas telas ao longo do tempo, como exemplo: 
 Um calendario com as informações uteis do refeitorio e alimentação, atualizados na hora.
